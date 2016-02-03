@@ -1,0 +1,28 @@
+name: K4 Global News
+favicon: null
+layout_spectrum: 0.04226923338137567
+typography_spectrum: 0.3903810598421842
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4412350500933826
+  lightness: 0.579373289598152
+  saturation: 0.7858880290295929
+  rhythmicContrast: 0.42642165580764413
+purpose: []
